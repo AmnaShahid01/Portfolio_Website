@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
 
 :root{
-   --bg:#191970;
+   --bg:#19702a;
    --blue: white;
 }
 
@@ -14,7 +14,7 @@
 }
 
 body{
-    background: linear-gradient(-100deg, black,#191970);
+    background: linear-gradient(-100deg, black,#19702a);
     color: whitesmoke;
 }
 
